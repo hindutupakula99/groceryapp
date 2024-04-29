@@ -1,0 +1,7 @@
+.display-first-section{
+    position: relative;
+    background: color #dee9cf;
+    z-index:-20;
+    overflow: hidden;
+    padding-top: 0;
+}
